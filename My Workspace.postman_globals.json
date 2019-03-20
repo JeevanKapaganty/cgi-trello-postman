@@ -1,0 +1,23 @@
+{
+	"id": "146e52f0-fd32-4814-8e58-8a3c0f4d5eb7",
+	"values": [
+		{
+			"key": "trellokey",
+			"value": "9dfac8176ba307f93b68838e18031e36",
+			"type": "text",
+			"description": "",
+			"enabled": true
+		},
+		{
+			"key": "trellotoken",
+			"value": "7259e8ccd4dabc07d11289bba017edd8c9604f61522d9a1aff758b4b89a5edf5",
+			"type": "text",
+			"description": "",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2019-03-19T07:20:22.347Z",
+	"_postman_exported_using": "Postman/6.7.4"
+}
